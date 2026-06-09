@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Lidia Kibret
 
-<!--
-**Lidia-Kibret/Lidia-Kibret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student
 
-Here are some ideas to get you started:
+🚀 Competitive Programming & Problem Solving Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Focused on mastering Data Structures & Algorithms for internships
+
+---
+
+## 🧠 About Me
+
+- 🎓 Software Engineering student passionate about programming and problem solving  
+- 💡 Interested in Competitive Programming (Codeforces & LeetCode)  
+- 📈 Practicing DSA consistently to improve coding skills  
+- 🔥 Focused on building strong algorithmic thinking  
+- 🎯 Goal: Become internship-ready software engineer
+  
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🧩 Competitive Programming
+
+* 🔥 **Codeforces:** [lidiakibret4](https://codeforces.com/profile/lidiakibret4)
+* 🧠 **LeetCode:** [Lidia_04](https://leetcode.com/Lidia_04/)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lidia-Kibret&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 📫 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lidia-kibret-855705326/  
+- 🧑‍💻 **GitHub:** [github.com/lidiakibret4](https://github.com/lidiakibret4)
+- ✉️ **Email:** [lidiakibret4@gmail.com](mailto:lidiakibret4@gmail.com) 
+
+---
+
+## ⚡ Quote
+> "Turning ideas into code, and challenges into opportunities to learn."
