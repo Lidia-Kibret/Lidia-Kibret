@@ -40,6 +40,32 @@
 
 ---
 
+## 📊 My GitHub Analytics
+
+<table>
+  <tr>
+    <th width="50%">Overall Stats</th>
+    <th width="50%">Most Used Languages Graph</th>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Lidia-Kibret&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub stats" width="100%"/>
+    </td>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lidia-Kibret&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 🔥 Activity Graph
+
+[![Lidia's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lidia-Kibret&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lidia-Kibret&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
