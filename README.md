@@ -35,7 +35,7 @@
 
 ## 🧩 Competitive Programming
 
-* 🔥 **Codeforces:** [lidiakibret4](https://codeforces.com/profile/lidiakibret4)
+* 🔥 **Codeforces:** [pbkl](https://codeforces.com/profile/pbkl)
 * 🧠 **LeetCode:** [Lidia_04](https://leetcode.com/Lidia_04/)
 
 ---
@@ -62,8 +62,11 @@
 
 ## 🔥 Activity Graph
 
-[![Lidia's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lidia-Kibret&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lidia-Kibret&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+---
 ---
 
 ## 📊 GitHub Stats
