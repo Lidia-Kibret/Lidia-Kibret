@@ -60,7 +60,7 @@
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lidia-Kibret&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -69,16 +69,11 @@
 ---
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lidia-Kibret&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 📫 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lidia-kibret-855705326/  
 - 🧑‍💻 **GitHub:** [github.com/lidiakibret4](https://github.com/lidiakibret4)
-- ✉️ **Email:** [lidiakibret4@gmail.com](mailto:lidiakibret4@gmail.com) 
+- ✉️ **Email:** [lidiakibret4@gmail.com](mailto:lidiakibret4@gmail.com)
+- 📍 **Telegram:** [CTRL + FUTURE](https://t.me/CodebyLidia)
 
 ---
 
