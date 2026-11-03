@@ -3,15 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-five-pi-uz4mn2xkiy.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-visit-c49bff?style=for-the-badge&labelColor=1b1640"/></a>
-  <a href="https://linkedin.com/in/lidia-kibret-855705326"><img src="https://img.shields.io/badge/LinkedIn-connect-7cc4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1b1640"/></a>
-  <a href="mailto:lidiakibret4@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1b1640"/></a>
-  <a href="https://leetcode.com/u/Lidia_04/"><img src="https://img.shields.io/badge/LeetCode-Lidia__04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1b1640"/></a>
-  <a href="https://codeforces.com/profile/lidiakibret4"><img src="https://img.shields.io/badge/Codeforces-lidiakibret4-6ef0c2?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1b1640"/></a>
+  <a href="https://portfolio-five-pi-uz4mn2xkiy.vercel.app/"><img src="./assets/link-portfolio.svg" width="31%" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/lidia-kibret-855705326"><img src="./assets/link-linkedin.svg" width="31%" alt="LinkedIn"/></a>
+  <a href="mailto:lidiakibret4@gmail.com"><img src="./assets/link-email.svg" width="31%" alt="Email"/></a>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lidia-Kibret&label=profile%20views&color=c49bff&style=flat-square" alt="profile views"/>
+  <a href="https://leetcode.com/u/Lidia_04/"><img src="./assets/link-leetcode.svg" width="31%" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/lidiakibret4"><img src="./assets/link-codeforces.svg" width="31%" alt="Codeforces"/></a>
 </p>
 
 <br/>
@@ -88,6 +86,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lidia-Kibret/Lidia-Kibret/output/snake-dark.svg"/>
     <img src="https://raw.githubusercontent.com/Lidia-Kibret/Lidia-Kibret/output/snake.svg" alt="contribution snake" width="100%"/>
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lidia-Kibret&label=PROFILE+VIEWS&color=c49bff&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
