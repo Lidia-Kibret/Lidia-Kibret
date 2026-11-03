@@ -65,9 +65,20 @@ class Lidia:
   <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=dark" alt="Languages"/>
 </p>
 <p align="center">
+  <b>Frameworks & Libraries</b><br/><br/>
+  <!-- Remove any icon you haven't used: just delete its name from the list after i= -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,flask,django,fastapi&theme=dark" alt="Frameworks"/>
+</p>
+<p align="center">
+  <b>Databases</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/>
+</p>
+<p align="center">
   <b>Data Science</b><br/><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
