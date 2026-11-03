@@ -14,107 +14,70 @@
   <img src="https://komarev.com/ghpvc/?username=Lidia-Kibret&label=profile%20views&color=c49bff&style=flat-square" alt="profile views"/>
 </p>
 
----
+<br/>
 
-## 🌸 `whoami.py`
+<img src="./assets/h-about.svg" width="100%" alt="01. About me"/>
 
-```python
-class Lidia:
-    university = "Adama Science and Technology University (ASTU)"
-    major      = "Software Engineering"
-    location   = "Ethiopia 🇪🇹"
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="whoami.py — Software Engineering student at ASTU, competitive programmer, learning full-stack and data science"/>
+</p>
 
-    daily      = ["LeetCode", "Codeforces", "a little more web dev"]
-    exploring  = ["Full-Stack Development", "Data Science", "Machine Learning"]
-    competed   = ["Zindi Data Science Challenge"]
+<br/>
 
-    def motto(self):
-        return "Every algorithm I solve sharpens my thinking. Every project I build gets me closer."
-```
+<img src="./assets/h-toolbox.svg" width="100%" alt="02. Toolbox"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 What I'm about
-- 🧠 **Problem solver first** — I train DSA every day and love turning a messy problem into a clean, efficient solution.
-- 🌐 **Building for the web** — learning full-stack development by shipping real projects, starting with [my portfolio](https://portfolio-five-pi-uz4mn2xkiy.vercel.app/).
-- 📊 **Curious about data** — exploring datasets and ML models with Python, Pandas and NumPy.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Right now
-| | |
-|---|---|
-| 📚 **Learning** | JavaScript & modern web development <!-- EDIT --> |
-| 🔨 **Building** | Personal projects + my portfolio |
-| 🏆 **Practicing** | Graphs, DP & greedy on LeetCode / Codeforces |
-| 🤝 **Open to** | Internships, study groups, open source |
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>💬 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=dark&perline=9" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚛️ Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,flask,django,fastapi&theme=dark&perline=9" alt="Frameworks"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/></td>
+  </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Toolbox
+<img src="./assets/h-projects.svg" width="100%" alt="03. Featured work"/>
 
 <p align="center">
-  <b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=dark" alt="Languages"/>
-</p>
-<p align="center">
-  <b>Data Science</b><br/><br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-</p>
-<p align="center">
-  <b>Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/>
+  <a href="https://portfolio-five-pi-uz4mn2xkiy.vercel.app/"><img src="./assets/project-portfolio.svg" width="49%" alt="Portfolio Website"/></a>
+  <a href="https://github.com/Lidia-Kibret?tab=repositories"><img src="./assets/project-next.svg" width="49%" alt="Next project — in progress"/></a>
 </p>
 
----
+<br/>
 
-## 🚀 Featured work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Portfolio](https://github.com/Lidia-Kibret/Portfolio)
-My personal site — responsive, dark/light theme, with **live LeetCode & GitHub stats** pulled from their APIs.
-
-`HTML` `CSS` `JavaScript` · [**Live ↗**](https://portfolio-five-pi-uz4mn2xkiy.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 [Project name](https://github.com/Lidia-Kibret/REPO)
-<!-- EDIT: one sentence on what it does and what makes it interesting -->
-Short description of your next best project.
-
-`Tech` `Tech`
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚔️ Competitive programming
+<img src="./assets/h-cp.svg" width="100%" alt="04. Competitive programming"/>
 
 <p align="center">
   <a href="https://leetcode.com/u/Lidia_04/">
-    <img src="https://leetcard.jacoblin.cool/Lidia_04?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=16" alt="LeetCode stats" width="520"/>
+    <img src="https://leetcard.jacoblin.cool/Lidia_04?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=16" alt="LeetCode stats" width="560"/>
   </a>
 </p>
 
----
+<br/>
 
-## 📈 GitHub pulse
+<img src="./assets/h-stats.svg" width="100%" alt="05. GitHub pulse"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lidia-Kibret&background=0d0b1f&border=a98bff&ring=ff7eb6&fire=ff7eb6&currStreakNum=c49bff&currStreakLabel=c49bff&sideNums=7cc4ff&sideLabels=7cc4ff&dates=8e88b8&border_radius=16" alt="GitHub streak" width="620"/>

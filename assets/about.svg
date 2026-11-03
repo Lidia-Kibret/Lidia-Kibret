@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="445" viewBox="0 0 1200 445" role="img" aria-label="About Lidia: Software Engineering student at ASTU, competitive programmer, learning full-stack and data science">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0b1f"/><stop offset="0.6" stop-color="#151036"/><stop offset="1" stop-color="#1e0f2e"/>
+    </linearGradient>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#ff7eb6"/><stop offset="0.5" stop-color="#c49bff"/><stop offset="1" stop-color="#7cc4ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;600 0;0 0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#fff" fill-opacity="0.06"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="c"><rect width="1200" height="445" rx="24"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="445" fill="url(#bg)"/><rect width="1200" height="445" fill="url(#dots)"/>
+    <!-- editor -->
+    <rect x="40" y="30" width="690" height="385" rx="18" fill="#0b0920" fill-opacity="0.75" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="40" y="30" width="690" height="46" rx="18" fill="#ffffff" fill-opacity="0.03"/>
+    <circle cx="70" cy="53" r="7" fill="#ff5f57"/><circle cx="93" cy="53" r="7" fill="#febc2e"/><circle cx="116" cy="53" r="7" fill="#28c840"/>
+    <rect x="150" y="38" width="130" height="30" rx="8" fill="#ffffff" fill-opacity="0.06"/>
+    <text x="215" y="58" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#cfc7ff">🐍 whoami.py</text>
+    <g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16"><text x="70" y="118" fill="#4b4675"> 1</text><text x="110" y="118" xml:space="preserve" opacity="0"><tspan fill="#ff7eb6">class </tspan><tspan fill="#ffd479">Lidia</tspan><tspan fill="#8e88b8">:</tspan><animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.3s" fill="freeze"/></text><text x="70" y="143" fill="#4b4675"> 2</text><text x="110" y="143" xml:space="preserve" opacity="0"><tspan fill="#8e88b8">    </tspan><tspan fill="#d7d2ff">university</tspan><tspan fill="#8e88b8"> = </tspan><tspan fill="#6ef0c2">&quot;ASTU&quot;</tspan><animate attributeName="opacity" from="0" to="1" begin="0.37s" dur="0.3s" fill="freeze"/></text><text x="70" y="168" fill="#4b4675"> 3</text><text x="110" y="168" xml:space="preserve" opacity="0"><tspan fill="#8e88b8">    </tspan><tspan fill="#d7d2ff">major</tspan><tspan fill="#8e88b8">      = </tspan><tspan fill="#6ef0c2">&quot;Software Engineering&quot;</tspan><animate attributeName="opacity" from="0" to="1" begin="0.49s" dur="0.3s" fill="freeze"/></text><text x="70" y="193" fill="#4b4675"> 4</text><text x="110" y="193" xml:space="preserve" opacity="0"><tspan fill="#8e88b8">    </tspan><tspan fill="#d7d2ff">location</tspan><tspan fill="#8e88b8">   = </tspan><tspan fill="#6ef0c2">&quot;Ethiopia&quot;</tspan><animate attributeName="opacity" from="0" to="1" begin="0.61s" dur="0.3s" fill="freeze"/></text><text x="70" y="218" fill="#4b4675"> 5</text><text x="110" y="218" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.73s" dur="0.3s" fill="freeze"/></text><text x="70" y="243" fill="#4b4675"> 6</text><text x="110" y="243" xml:space="preserve" opacity="0"><tspan fill="#8e88b8">    </tspan><tspan fill="#d7d2ff">daily</tspan><tspan fill="#8e88b8">      = [</tspan><tspan fill="#6ef0c2">&quot;LeetCode&quot;</tspan><tspan fill="#8e88b8">, </tspan><tspan fill="#6ef0c2">&quot;Codeforces&quot;</tspan><tspan fill="#8e88b8">]</tspan><animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.3s" fill="freeze"/></text><text x="70" y="268" fill="#4b4675"> 7</text><text x="110" y="268" xml:space="preserve" opacity="0"><tspan fill="#8e88b8">    </tspan><tspan fill="#d7d2ff">exploring</tspan><tspan fill="#8e88b8">  = [</tspan><tspan fill="#6ef0c2">&quot;Full-Stack&quot;</tspan><tspan fill="#8e88b8">, </tspan><tspan fill="#6ef0c2">&quot;Data Science&quot;</tspan><tspan fill="#8e88b8">]</tspan><animate attributeName="opacity" from="0" to="1" begin="0.97s" dur="0.3s" fill="freeze"/></text><text x="70" y="293" fill="#4b4675"> 8</text><text x="110" y="293" xml:space="preserve" opacity="0"><tspan fill="#8e88b8">    </tspan><tspan fill="#d7d2ff">competed</tspan><tspan fill="#8e88b8">   = [</tspan><tspan fill="#6ef0c2">&quot;Zindi ML Challenge&quot;</tspan><tspan fill="#8e88b8">]</tspan><animate attributeName="opacity" from="0" to="1" begin="1.09s" dur="0.3s" fill="freeze"/></text><text x="70" y="318" fill="#4b4675"> 9</text><text x="110" y="318" xml:space="preserve" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.21s" dur="0.3s" fill="freeze"/></text><text x="70" y="343" fill="#4b4675">10</text><text x="110" y="343" xml:space="preserve" opacity="0"><tspan fill="#8e88b8">    </tspan><tspan fill="#ff7eb6">def </tspan><tspan fill="#7cc4ff">motto</tspan><tspan fill="#8e88b8">(</tspan><tspan fill="#d7d2ff">self</tspan><tspan fill="#8e88b8">):</tspan><animate attributeName="opacity" from="0" to="1" begin="1.33s" dur="0.3s" fill="freeze"/></text><text x="70" y="368" fill="#4b4675">11</text><text x="110" y="368" xml:space="preserve" opacity="0"><tspan fill="#8e88b8">        </tspan><tspan fill="#ff7eb6">return </tspan><tspan fill="#6ef0c2">&quot;Every problem solved</tspan><animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.3s" fill="freeze"/></text><text x="70" y="393" fill="#4b4675">12</text><text x="110" y="393" xml:space="preserve" opacity="0"><tspan fill="#6ef0c2">                makes the next one easier.&quot;</tspan><animate attributeName="opacity" from="0" to="1" begin="1.57s" dur="0.3s" fill="freeze"/></text></g>
+    <rect x="532" y="378" width="10" height="19" fill="#6ef0c2" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.5;1" begin="1.8s" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <!-- now panel -->
+    <text x="760" y="56" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" fill="#ff7eb6">●<tspan fill="#8e88b8"> currently.status</tspan>
+      <animate attributeName="fill-opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></text>
+    
+    <g opacity="0">
+      <rect x="760" y="80" width="400" height="50" rx="14" fill="#ffffff" fill-opacity="0.035" stroke="#a98bff" stroke-opacity="0.18"/>
+      <text x="782" y="112" font-size="20">📚</text>
+      <text x="818" y="105" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#8e88b8" letter-spacing="1">LEARNING</text>
+      <text x="818" y="123" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#e9e6ff">JavaScript, React &amp; Next.js</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.4s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <rect x="760" y="142" width="400" height="50" rx="14" fill="#ffffff" fill-opacity="0.035" stroke="#a98bff" stroke-opacity="0.18"/>
+      <text x="782" y="174" font-size="20">🔨</text>
+      <text x="818" y="167" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#8e88b8" letter-spacing="1">BUILDING</text>
+      <text x="818" y="185" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#e9e6ff">Full-stack side projects</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <rect x="760" y="204" width="400" height="50" rx="14" fill="#ffffff" fill-opacity="0.035" stroke="#a98bff" stroke-opacity="0.18"/>
+      <text x="782" y="236" font-size="20">🏆</text>
+      <text x="818" y="229" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#8e88b8" letter-spacing="1">PRACTICING</text>
+      <text x="818" y="247" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#e9e6ff">Graphs, DP &amp; greedy</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.4s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <rect x="760" y="266" width="400" height="50" rx="14" fill="#ffffff" fill-opacity="0.035" stroke="#a98bff" stroke-opacity="0.18"/>
+      <text x="782" y="298" font-size="20">📊</text>
+      <text x="818" y="291" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#8e88b8" letter-spacing="1">EXPLORING</text>
+      <text x="818" y="309" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#e9e6ff">ML with scikit-learn</text>
+      <animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.4s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <rect x="760" y="328" width="400" height="50" rx="14" fill="#ffffff" fill-opacity="0.035" stroke="#a98bff" stroke-opacity="0.18"/>
+      <text x="782" y="360" font-size="20">🤝</text>
+      <text x="818" y="353" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#8e88b8" letter-spacing="1">OPEN TO</text>
+      <text x="818" y="371" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#e9e6ff">Internships &amp; collaboration</text>
+      <animate attributeName="opacity" from="0" to="1" begin="1.32s" dur="0.4s" fill="freeze"/>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="443.5" rx="24" fill="none" stroke="#a98bff" stroke-opacity="0.3" stroke-width="1.5"/>
+</svg>
