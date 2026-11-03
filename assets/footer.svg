@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7eb6"/>
+      <stop offset="0.5" stop-color="#c49bff"/>
+      <stop offset="1" stop-color="#7cc4ff"/>
+    </linearGradient>
+    <style>
+      .t { font: 600 22px 'JetBrains Mono','Fira Code',Consolas,monospace; fill: #c9c2f5; text-anchor: middle; }
+      .s { font: 500 15px 'JetBrains Mono','Fira Code',Consolas,monospace; fill: #8e88b8; text-anchor: middle; }
+    </style>
+  </defs>
+  <path fill="url(#w)" fill-opacity="0.18">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 90 C 200 60, 400 120, 600 90 S 1000 60, 1200 90 V130 H0 Z;
+              M0 90 C 200 120, 400 60, 600 90 S 1000 120, 1200 90 V130 H0 Z;
+              M0 90 C 200 60, 400 120, 600 90 S 1000 60, 1200 90 V130 H0 Z"/>
+  </path>
+  <path fill="url(#w)" fill-opacity="0.32">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0 105 C 300 85, 500 125, 800 105 S 1100 90, 1200 105 V130 H0 Z;
+              M0 105 C 300 125, 500 85, 800 105 S 1100 120, 1200 105 V130 H0 Z;
+              M0 105 C 300 85, 500 125, 800 105 S 1100 90, 1200 105 V130 H0 Z"/>
+  </path>
+  <text x="600" y="38" class="t">return "thanks for visiting ✨"</text>
+  <text x="600" y="64" class="s"># one problem, one commit, one step at a time</text>
+</svg>
