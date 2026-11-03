@@ -24,35 +24,9 @@
 
 <img src="./assets/h-toolbox.svg" width="100%" alt="02. Toolbox"/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="140"><b>💬 Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=dark&perline=9" alt="Languages"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚛️ Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,flask,django,fastapi&theme=dark&perline=9" alt="Frameworks"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>📊 Data Science</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧰 Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/toolbox.svg" width="100%" alt="Tech stack: Python, C++, Java, JavaScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, Express, FastAPI, Django, Flask, PostgreSQL, MySQL, MongoDB, Machine Learning, Pandas, NumPy, scikit-learn, Matplotlib, Jupyter, Colab, Git, GitHub, VS Code, Vercel"/>
+</p>
 
 <br/>
 
