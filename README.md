@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/Lidia_04/"><img src="./assets/link-leetcode.svg" width="31%" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/lidiakibret4"><img src="./assets/link-codeforces.svg" width="31%" alt="Codeforces"/></a>
+  <a href="https://codeforces.com/profile/pbkl"><img src="./assets/link-codeforces.svg" width="31%" alt="Codeforces"/></a>
 </p>
 
 <br/>
@@ -60,10 +60,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lidia-Kibret/Lidia-Kibret/output/snake-dark.svg"/>
     <img src="https://raw.githubusercontent.com/Lidia-Kibret/Lidia-Kibret/output/snake.svg" alt="contribution snake" width="100%"/>
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lidia-Kibret&label=PROFILE+VIEWS&color=c49bff&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
